@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__/
+archive/
+credentials.py
+data_store/
